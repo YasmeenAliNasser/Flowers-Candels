@@ -4,7 +4,7 @@ import data from './data';
 
 
   const Home=()=> {
-    console.warn(data.productData)
+    
   return (
     <div>
        

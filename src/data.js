@@ -65,7 +65,7 @@ const data ={
             price:120,
         },
         {
-            id:8,
+            id:9,
             img:p3,
             title:"Tulip Rose",
             desc:"",
